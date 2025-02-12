@@ -25,7 +25,6 @@ Syntax, Explanation and Examples.
 1. User Defined Functions.
 
 # Task 4 :
-# Task 4 :
 * Introduction to NumPy.
 * Arrays in Numpy.
 * Array Operations using NumPy.
@@ -67,3 +66,49 @@ Condition selection : and, or.
 Work on matplotlib and seaborn
 
 Data visualization : scatter Plot, Bar plot, pie chart, Line plot, Histogram, Subplots, Regression Plots, residual Plots in Matplotlib and Seaborn library
+
+
+# Task 7:
+Download titanic data from kaggle.com
+Check:
+Describe 
+Info
+Shape
+Columns
+
+Pre processing:
+Missing value handle 
+Label encoding
+
+
+# Task 8:
+learn 1)ML
+2)pre processing
+3)quartile, tukeys method
+4)box  and whisker plot , Z score(outlier)
+5)standardization
+6)minmax scaler
+7)PCA
+
+# task 9
+•Take iris data
+•Separate dependence and independent 
+•Train test split (80:20)
+•import naive bays 
+(GaussianNB ,bernoulliNB, MultinationalNB)
+•train the model
+•predict X test
+•check accuracy 
+
+Learn and impliment : 
+GaussianNB,  bernoulliNB, MultinationalNB
+
+UNDERSTAND theory part also,Formula  And by hand calculations
+
+# Task 10: Decision Tree
+(Entropy and GINI)
+
+Explanation ,Formula and Example  create PPT for
+Decision tree
+
+And build a model and check accuracy ,recall and precision
